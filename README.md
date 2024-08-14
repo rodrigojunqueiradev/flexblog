@@ -1,4 +1,4 @@
-# Modelo de Portfólio - Lobo
+# Blog - FlexBlog
 
 Oi, eu sou o Rodrigo.
 
