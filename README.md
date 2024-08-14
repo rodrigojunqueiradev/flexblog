@@ -20,6 +20,9 @@ Utilizei as ferramentas:
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Link para o certificado de conclusão do curso
+https://origamid.com/certificate/4a8101cf
+
 ## Flex Container
 
 O Flex Container é a tag que envolve os itens flex ao indicar display:flex, essa tag passa a ser um flex container.
